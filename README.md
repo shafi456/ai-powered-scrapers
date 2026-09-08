@@ -1,6 +1,6 @@
 # AI Powered Scrapers
 
-A few small projects I built while working through an LLM engineering course, playing around with local LLMs (via Ollama) and web scraping. Nothing fancy — just me getting comfortable with prompting, structured outputs, and pointing the OpenAI SDK at a local model instead of paying for API calls.
+A few small projects I built while working through an some youtube videos about llm engineering, playing around with local LLMs (via Ollama) and web scraping. Nothing fancy — just me getting comfortable with prompting, structured outputs, and pointing the OpenAI SDK at a local model instead of paying for API calls.
 
 All three scripts follow the same basic pattern: scrape a webpage, hand the raw text to a locally-running model with a very opinionated system prompt, and get back something more useful than the wall of text I started with.
 
